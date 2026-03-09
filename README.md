@@ -1,9 +1,3 @@
-# Hey, I’m Ryan 👋  
-
-🎓 Currently studying **Generative AI** at the Open University of Kenya  
-💡 Exploring **Conversational AI, NLP & Deep Learning**  
-🌱 Always learning, building, and sharing  
-
 ---
 
 ## 🔗 Connect with me  
