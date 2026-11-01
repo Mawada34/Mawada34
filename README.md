@@ -5,23 +5,12 @@
 - Let’s collaborate, share repos, and grow together 🚀  
 
 ---
+ 
+## 🛠️ Skills & Tools I’m Learning 
 
-## 🛠️ Skills & Tools I’m Learning  
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
-JAVASCRIPT
-HTML,CSS
-FLASK.
-<!--
-**Mawada34/Mawada34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://shields.io)](https://mozilla.org)
+[![HTML5](https://shields.io)](https://mozilla.org)
+[![CSS3](https://shields.io)](https://mozilla.org)
+[![Flask](https://shields.io)](https://palletsprojects.com)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
